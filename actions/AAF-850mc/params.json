@@ -1,0 +1,13 @@
+{
+    "category": "plugins",
+    "display": "Reset Input",
+    "fields": {
+        "AAG": {
+            "caption": "Attribute-Id",
+            "editor": "StaticText",
+            "name": "attribute-id",
+            "rank": 0
+        }
+    },
+    "type": "server_side"
+}

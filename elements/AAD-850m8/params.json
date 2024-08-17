@@ -1,0 +1,18 @@
+{
+    "add_is_visible": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 1,
+        "width": 1
+    },
+    "display": "Reset-Frontend-Inputs",
+    "fields": {
+        "AAE": {
+            "caption": "Attribute-Id",
+            "editor": "StaticText",
+            "name": "attribute-id",
+            "rank": 0
+        }
+    },
+    "icon": "ion-arrow-right-b"
+}
