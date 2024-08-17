@@ -9,5 +9,5 @@
             "rank": 0
         }
     },
-    "type": "server_side"
+    "type": "client_side"
 }

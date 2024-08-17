@@ -5,6 +5,5 @@
     "description": "Este plugin para o Bubble.io permite que desenvolvedores atribuam facilmente um valor nulo a campos de input em suas aplicações web. Ao fornecer o ID do campo de input como uma propriedade para o plugin, os usuários podem limpar o conteúdo de qualquer campo de input especificado, definindo seu valor para uma string vazia, que é interpretada como um valor \"nulo\" em termos de entradas de formulário. Este recurso é particularmente útil para formulários onde os usuários podem desejar redefinir ou limpar entradas sem a necessidade de recarregar a página ou utilizar lógica adicional de workflow. Com uma implementação simples e eficaz, este plugin é uma adição valiosa para qualquer projeto no Bubble.io, oferecendo flexibilidade e conveniência na gestão de campos de formulário.",
     "image": "//meta-q.cdn.bubble.io/f1710287645695x576448040879303800/restinputs.webp",
     "license": "open_source",
-    "name": "Reset-Input",
-    "sa_node_version": 18
+    "name": "Reset-Input"
 }
